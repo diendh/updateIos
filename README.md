@@ -6,5 +6,6 @@
  </head>
  <body>
 <h1>IOS</h1>
-  <a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/diendh/updateIos/master/ios.plist">Visit IOS!</a>
+[Visit IOS!](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/diendh/updateIos/master/ios.plist)
+[Visit IOS!](https://raw.githubusercontent.com/diendh/updateIos/master/ios.plist)
 </body></html>
